@@ -18,7 +18,7 @@ The IVPN network was designed to be as fast as possible to encourage customers t
 
 - We've placed VPN servers as physically close to our customer base as possible and continually revise existing and new locations for opportunities to get servers closer to customers thereby decreasing the latency and increasing the speed of our VPN service. 
 
-- We build VPN servers which can easily handle the heavy encryption overhead for hundreds of users simultaneously. We have a a minimum server specification which includes multi-core Xeon processors.
+- We build VPN servers which can easily handle the heavy encryption overhead for hundreds of users simultaneously. We have a minimum server specification which includes multi-core Xeon processors.
 
 - We maintain an extremely low subscriber ratio per server to ensure that performance does not decline at peak periods. The majority of our servers operate at a fraction of their capacity to allow for bursts during high demand periods.
 
